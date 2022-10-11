@@ -40,12 +40,14 @@ I like
 </br>
 </br>
 </br>
-
 [<img align = "left" alt="vscode" width="30px" src="https://raw.githubusercontent.com/github/explore/bbd48b997e8d0bef63f676eca4da5e1f76487b56/topics/visual-studio-code/visual-studio-code.png"/>][instagram]
 [<img align = "left" alt="IDEA" width="30px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"/>][instagram]
 
-
-
+</br>
+</br>
+</br>
+</br>
+</br>
 
 [<img align = "left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
 
