@@ -2,12 +2,23 @@
 
 ### I'm a Java backend developer
 
-I like 
-- :car: cars
-- :code: code
-- :books: books
-- :music: music
-- :traveling: travel
+About me:
+
+Hi everyone !!!
+I'm Ruslan, 20 years old and i'm from Karakalpakstan. I do programming and sports. 
+Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Scorpion).
+In addition to these love cars, or rather racing cars :)
+
+About my technical skills:
+
+- Solving simple algorithmic problems. Knowledge of Data Structures
+- Development of backend web-applications and projects on the Spring Boot
+- Assistance in Web-sites development and for Frontend developers
+- Confident working with version control
+- Working with databases - PostgreSQL & MySQL
+- Working with modern technologies - Postman, Docker
+- Basic knowledge of JavaScript, JUnit5, Linux Terminal.
+- Young and Junior Developer with responsibility :)
 
 ------------
 
