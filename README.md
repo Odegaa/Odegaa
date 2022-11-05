@@ -65,3 +65,4 @@ About my technical skills:
 [instagram]: https://www.instagram.com/odegaa.gt
 [youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
 [facebook]: https://www.facebook.com/profile.php?id=100034533073208
+[telegram]: https://www.telegram.com/odegaa
