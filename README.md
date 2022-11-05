@@ -61,8 +61,9 @@ About my technical skills:
 [<img align = "left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][facebook]
 [<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />][youtube]
 [<img align = "left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+[<img align = "left" alt="LinkedIn" width="30px" src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_145807&psig=AOvVaw3OxW2s2udKPXNgjrI_nEzr&ust=1667752791747000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiW7ra9l_sCFQAAAAAdAAAAABAE)" />][LinkedIn]
 
 [instagram]: https://www.instagram.com/odegaa.gt
 [youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
 [facebook]: https://www.facebook.com/profile.php?id=100034533073208
-[telegram]: https://www.telegram.com/odegaa
+[LinkedIn]: [https://www.telegram.com/odegaa](https://www.linkedin.com/in/ruslan-kazakhbaev-821a7b211/
