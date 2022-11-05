@@ -61,9 +61,7 @@ About my technical skills:
 [<img align = "left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][facebook]
 [<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />][youtube]
 [<img align = "left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-[<img align = "left" alt="LinkedIn" width="30px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fc8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5%2F68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Fedent%2FSuperTinyIcons&tbnid=eA50Hd85QtmQ8M&vet=12ahUKEwiRzNSDv5f7AhU8DBAIHe-8BsYQMygBegUIARDBAQ..i&docid=gq7wB2dAakZ-rM&w=800&h=800&q=linkedin%20icons%20for%20github&client=ubuntu&ved=2ahUKEwiRzNSDv5f7AhU8DBAIHe-8BsYQMygBegUIARDBAQ" />][LinkedIn]
 
 [instagram]: https://www.instagram.com/odegaa.gt
 [youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
 [facebook]: https://www.facebook.com/profile.php?id=100034533073208
-[LinkedIn]: https://www.linkedin.com/in/ruslan-kazakhbaev-821a7b211
