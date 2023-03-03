@@ -1,11 +1,11 @@
 ## Hello, I'm [Odegaa][instagram]
 
-### I'm a Java backend developer
+### I'm a Software Engineer
 
 About me:
 
 Hi everyone !!!
-My name is Ruslan (Odegaa is my username :) and i'm 20 years old and from Karakalpakstan. I do programming and sports. 
+My name is Ruslan (Odegaa is my username :) and i'm 20+ years old and from Karakalpakstan. I do programming and sports. 
 Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Scorpion).
 In addition to these love cars, or rather racing cars :)
 
@@ -17,7 +17,7 @@ About my technical skills:
 - Confident working with version control
 - Working with databases - PostgreSQL & MySQL
 - Working with modern technologies - Postman, Docker
-- Basic knowledge of JavaScript, JUnit5, Linux Terminal.
+- Basic knowledge of JUnit5 and Linux Terminal.
 - Young and Junior Developer with responsibility :)
 
 ------------
