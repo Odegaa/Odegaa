@@ -1,6 +1,6 @@
 ## Hello, I'm [Odegaa][instagram]
 
-### I'm a Software Engineer
+### I'm Software Engineer
 
 About me:
 
