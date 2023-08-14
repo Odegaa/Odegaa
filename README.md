@@ -16,7 +16,6 @@ About my technical skills:
 - Assistance in Web-sites development and for Frontend developers
 - Confident working with version control
 - Working with databases - PostgreSQL & MySQL
-- Working with modern technologies - Postman, Docker
 - Basic knowledge of JUnit5 and Linux Terminal.
 - Young and Junior Developer with responsibility :)
 
@@ -33,4 +32,3 @@ About my technical skills:
 [youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
 [facebook]: https://www.facebook.com/profile.php?id=100034533073208
 [telegram]: https://www.telegram.com/odegaa
-[<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/
