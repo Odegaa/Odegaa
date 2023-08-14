@@ -26,4 +26,11 @@ About my technical skills:
 
 [<img align = "left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
 [<img align = "left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][facebook]
+[<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />][youtube]
+[<img align = "left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
+
+[instagram]: https://www.instagram.com/odegaa.gt
+[youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
+[facebook]: https://www.facebook.com/profile.php?id=100034533073208
+[telegram]: https://www.telegram.com/odegaa
 [<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/
