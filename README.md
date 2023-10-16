@@ -8,8 +8,14 @@ Hi everyone !!!
 My name is Ruslan (Odegaa is my username :) and i'm 20+ years old and from Karakalpakstan. I do programming and sports. 
 Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Scorpion).
 In addition to these love cars, or rather racing cars :)
-
-(https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+<div align="center">
+            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
 
 
 About my technical skills:
