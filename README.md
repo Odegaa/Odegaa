@@ -9,9 +9,6 @@ My name is Ruslan (Odegaa is my username :) and i'm 20+ years old and from Karak
 Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Scorpion).
 In addition to these love cars, or rather racing cars :)
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-
 About my technical skills:
 
 - Solving simple algorithmic problems. Knowledge of Data Structures
@@ -23,6 +20,8 @@ About my technical skills:
 - Young and Junior Developer with responsibility
 
 ------------
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
