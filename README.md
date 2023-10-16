@@ -9,7 +9,6 @@ My name is Ruslan (Odegaa is my username :) and i'm 20+ years old and from Karak
 Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Scorpion).
 In addition to these love cars, or rather racing cars :)
 
-### (https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 
