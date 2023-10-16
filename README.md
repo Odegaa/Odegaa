@@ -12,12 +12,12 @@ In addition to these love cars, or rather racing cars :)
 About my technical skills:
 
 - Solving simple algorithmic problems. Knowledge of Data Structures
-- Development of backend web-applications and projects on the Spring Boot
-- Assistance in Web-sites development and for Frontend developers
+- Development of Front-End web-applications and projects on React TS
+- Assistance in Web-sites development for Back-End developers
 - Confident working with version control
-- Working with databases - PostgreSQL & MySQL
-- Basic knowledge of JUnit5 and Linux Terminal.
-- Young and Junior Developer with responsibility :)
+- Working with modern technologies - Bun.JS, Vite and e.t.c
+- Basic knowledge of Java, JUnit5, Linux Terminal, Spring Framework and Spring Boot.
+- Young and Junior Developer with responsibility
 
 ------------
 
