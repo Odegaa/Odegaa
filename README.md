@@ -38,6 +38,10 @@ About my technical skills:
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>
 
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=odegaa&show_icons=true&count_private=true&hide_border=true" align="left" />  
+
 ### You can contact me:
 
 [<img align = "left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
