@@ -42,14 +42,21 @@ About my technical skills:
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=odegaa&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-### You can contact me:
-
-[<img align = "left" alt="Instagram" width="30px" src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" />][instagram]
-[<img align = "left" alt="Facebook" width="30px" src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" />][facebook]
-[<img align = "left" alt="YouTube" width="30px" src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" />][youtube]
-[<img align = "left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" />][telegram]
-
-[instagram]: https://www.instagram.com/odegaa.gt
-[youtube]: https://www.youtube.com/channel/UCoEF7O47Eh2zlRIcadgqWpA
-[facebook]: https://www.facebook.com/profile.php?id=100034533073208
-[telegram]: https://www.telegram.com/odegaa
+## Connect with me  
+<div align="center">
+<a href="https://github.com/odegaa" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ruslan-kazakhbaev-821a7b211/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100034533073208&mibextid=ZbWKw" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/odegaa.gt" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://dribbble.com/odegaa" target="_blank">
+<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+</a>  
+</div>  
