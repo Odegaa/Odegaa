@@ -1,5 +1,3 @@
-## Hello, I'm [Odegaa][instagram]
-
 ### I'm Software Engineer
 
 
@@ -51,7 +49,7 @@ About my technical skills:
 <a href="https://github.com/odegaa" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/ruslan-kazakhbaev-821a7b211/" target="_blank">
+<a href="https://linkedin.com/in/odegaa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100034533073208&mibextid=ZbWKw" target="_blank">
