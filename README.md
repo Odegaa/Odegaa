@@ -1,8 +1,4 @@
-### I'm Software Engineer
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
+### I'm Software Engineer | Front End Developer
 
 About me:
 
@@ -10,6 +6,10 @@ Hi everyone !!!
 My name is Ruslan (Odegaa is my username :) and i'm 21 years old and from Karakalpakstan. I do programming and sports. 
 Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Kabal).
 In addition to these love cars, or rather racing cars :)
+
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313wcep4s63umfivhmybdpzctgri&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
 
 About my technical skills:
 
