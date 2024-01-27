@@ -1,4 +1,4 @@
-### I'm Software Engineer | Front End Developer
+### Software Engineer | Front End Developer
 
 About me:
 
@@ -9,13 +9,13 @@ In addition to these love cars, or rather racing cars :)
 
 About my technical skills:
 
-- Solving simple algorithmic problems. Knowledge of Data Structures
-- Development of Front-End web-applications and projects on React TS
-- Assistance in Web-sites development for Back-End developers
-- Confident working with version control
-- Working with modern technologies - Bun.JS, Vite and e.t.c
-- Basic knowledge of Java, JUnit5, Linux Terminal, Spring Framework and Spring Boot.
-- Young and Junior Developer with responsibility
+- Solving simple algorithmic problems. Knowledge of Data Structures.
+- Development of Front-End web-applications and projects on React.
+- Assistance in Web-sites development for Back-End developers.
+- Confident working with version control.
+- Working with modern technologies - Zustand, Vite and e.t.c.
+- Basic knowledge of Java, Linux Terminal, Spring Framework and Spring Boot.
+- Software Engineer with responsibility.
 
 ------------
 
