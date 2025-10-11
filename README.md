@@ -1,11 +1,9 @@
-### Software Engineer | Front End Developer
+### Software Engineer
 
 About me:
 
 Hi everyone !!!
 My name is Ruslan (Odegaa is my username :) and i'm 23 years old and from Karakalpakstan. I do programming and sports. 
-Like to play football and volleyball. And in terms of eSports, I play FIFA (Big fan Real Madrid) and Mortal Combat is my favorite character (Kabal).
-In addition to these love cars, or rather racing cars :)
 
 About my technical skills:
 
