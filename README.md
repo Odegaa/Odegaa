@@ -7,12 +7,12 @@ My name is Ruslan (Odegaa is my username :) and I'm 23 y.o.
 
 About my technical skills:
 
-- Solving simple algorithmic problems. Knowledge of Data Structures.
+- Solving simple algorithmic problems and Data Structures.
 - Development of Front-End web-applications and projects on React.
 - Assistance in Web-sites development for Back-End developers.
 - Confident working with version control.
 - Working with modern technologies - Zustand, Vite and e.t.c.
-- Basic knowledge of Java, Linux Terminal, Spring Framework and Spring Boot.
+- Knowledge of Java, Vue, Linux Terminal, Spring Framework and Spring Boot.
 - Software Engineer with responsibility.
 
 ------------
