@@ -1,9 +1,9 @@
-### Software Engineer
+### Ex Software Engineer
 
 About me:
 
 Hi everyone !!!
-My name is Ruslan (Odegaa is my username :) and i'm 23 years old and from Karakalpakstan. I do programming and sports. 
+My name is Ruslan (Odegaa is my username :) and I'm 23 y.o.
 
 About my technical skills:
 
