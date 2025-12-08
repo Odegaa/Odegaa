@@ -1,21 +1,9 @@
-### Ex Software Engineer
+### Software Engineer
 
 About me:
 
 Hi everyone !!!
 My name is Ruslan (Odegaa is my username :) and I'm 23 y.o.
-
-About my technical skills:
-
-- Solving simple algorithmic problems and Data Structures.
-- Development of Front-End web-applications and projects on React.
-- Assistance in Web-sites development for Back-End developers.
-- Confident working with version control.
-- Working with modern technologies - Zustand, Vite and e.t.c.
-- Knowledge of Java, Vue, Linux Terminal, Spring Framework and Spring Boot.
-- Software Engineer with responsibility.
-
-------------
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -41,22 +29,3 @@ About my technical skills:
 
 ## Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=odegaa&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/odegaa" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/odegaa/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100034533073208&mibextid=ZbWKw" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/odegaa.gt" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/odegaa" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>  
-</div>  
